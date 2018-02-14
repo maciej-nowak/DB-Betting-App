@@ -14,4 +14,5 @@ At first you must run SQL queries from sql folder at choosen server. Queries con
 
 ## Screenshots
 Screenshots examples. For more see screenshots folder.  
+  
 <img src="screenshots/matches_bet_history.png" width="200"> <img src="screenshots/team_details.png" width="200"> <img src="screenshots/user_panel.png" width="200"> <img src="screenshots/main_page.png" width="200">
