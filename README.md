@@ -11,3 +11,6 @@ Football betting database app. Created at the University as the project within D
 
 ## How it works?
 At first you must run SQL queries from sql folder at choosen server. Queries contains database structure and the sample data of the teams. After that put PHP scripts into server. At voaile! You can just use it. From admin panel (nick: admin, password: admin)  you can random schedule and results of the every single round. From the user panel you can take a choosen bets.
+
+## Screenshots
+<img src="screenshots/matches_bet_history.png" width="200"> <img src="screenshots/team_details.png" width="200"> <img src="screenshots/user_panel.png" width="200"> <img src="screenshots/main_page.png" width="200">
